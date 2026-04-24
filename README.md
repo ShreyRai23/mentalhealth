@@ -2,7 +2,7 @@
 
 Welcome to MindWell, a comprehensive mental wellness application designed to provide personalized support, AI-driven insights, and engaging activities to promote a healthy state of mind.
 
-**[✨ View Live Demo ✨](https://studio--studio-639994847-66f7a.us-central1.hosted.app/login)**
+**[✨ View Live Demo ✨](https://mentalhealth-rrdd.vercel.app/login)**
 
 ## Features
 
